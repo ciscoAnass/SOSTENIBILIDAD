@@ -1,7 +1,7 @@
 # SOSTENIBILIDAD
 
 
-![Foto](img/foot.jpeg)
+![Foto](img/foot.jpg)
 
 
 ## Índice
